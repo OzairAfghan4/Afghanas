@@ -9,4 +9,4 @@
 # cd Afghans
 # is
 # python AfghanUzair1133.py
-#
+# created by AfghanUzair1133
