@@ -8,4 +8,5 @@
 # https://github.com/OzairAfghan4/Afghanas.git
 # cd Afghans
 # is
-# python  
+# python AfghanUzair1133.py
+#
